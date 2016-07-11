@@ -1,0 +1,10 @@
+public class Bank{
+	private int age;
+	private string name;
+	private final static double RENTE = 2.2;
+
+	public Bank(string n){
+		this.name = n;
+
+	}
+}
