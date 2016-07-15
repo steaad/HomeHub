@@ -7,4 +7,12 @@ public class Bank{
 		this.name = n;
 
 	}
+
+	public int getAge(){
+		return age;
+	}
+
+	public string getName(){
+		return name;
+	}
 }
